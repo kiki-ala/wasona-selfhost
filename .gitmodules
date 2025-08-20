@@ -1,0 +1,3 @@
+[submodule "kalama"]
+	path = kalama
+	url = https://github.com/kiki-ala/kalama-wikimedia-local.git
