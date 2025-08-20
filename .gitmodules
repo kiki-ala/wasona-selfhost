@@ -1,3 +1,6 @@
 [submodule "kalama"]
 	path = kalama
-	url = https://github.com/wasona/kalama.git
+	url = https://github.com/kiki-ala/kalama-wikimedia-local.git
+[submodule "wikimedia-phoneme-audio"]
+	path = kalama/wikimedia-phoneme-audio
+	url = https://github.com/kiki-ala/wikimedia-phoneme-audio.git
