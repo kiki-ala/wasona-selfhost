@@ -1,0 +1,3 @@
+[submodule "kalama"]
+	path = kalama
+	url = https://github.com/wasona/kalama.git
